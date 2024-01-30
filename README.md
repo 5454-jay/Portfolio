@@ -1,5 +1,4 @@
-
-### Jay Roy - Software developer 
+# Jay Roy - Software developer 
 
 This project was built using these technologies.
 
